@@ -118,6 +118,7 @@ input{
     font-weight: bold;
     text-align: center;
     min-height: 20px;
+    width: 100%;
 }
 
 .texto-advertencia{
